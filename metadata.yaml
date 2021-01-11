@@ -1,0 +1,32 @@
+_repo: Les-mariages-de-Paris_64202
+_version: 0.0.1
+creator:
+  author:
+    agent_name: About, Edmond
+    aliases:
+    - About, Edmond Francois Valentin
+    - Avout, Edmondos
+    - About, Edmond François Valentin
+    - Abu, Edmond
+    - About, E. (Edmond)
+    - Ampou, Edmondos
+    birthdate: 1828
+    deathdate: 1885
+    gutenberg_agent_id: '5182'
+    url: http://www.gutenberg.org/2009/agents/5182
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Edmond_François_Valentin_About
+    - https://fr.wikipedia.org/wiki/Edmond_About
+description: ''
+gutenberg_issued: '2021-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64202'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Les mariages de Paris
+url: http://www.gutenberg.org/ebooks/64202
